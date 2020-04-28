@@ -267,7 +267,7 @@
         "description": "El proyecto consiste en una base de datos con sistema de cuentas y bases de datos vinculadas con Firebase y desarrollada con VueCli.",
         "preview": "img/firevue.png",
         "link": "https://github.com/AlvaroZ-F/firevue-app-alvarozf",
-        "prod-link": "https://alvaroz-f.github.io/firevue-app-alvarozf/#/login"
+        "prodlink": "https://alvaroz-f.github.io/firevue-app-alvarozf/#/login"
       },
       {
         "id": "1",
@@ -275,7 +275,7 @@
         "description": "Este projecto esta desarrollado con diferentes herramientas de Bootstrap, usando JQuery y peticiones Ajax tambien en su funcionamiento.",
         "preview": "img/JS-JQuery-Bootstrap.png",
         "link": "https://github.com/AlvaroZ-F/JS-Ex-Pro1",
-        "prod-link": "https://alvaroz-f.github.io/JS-Ex-Pro1/"
+        "prodlink": "https://alvaroz-f.github.io/JS-Ex-Pro1/"
       },
       {
         "id": "2",
@@ -283,7 +283,7 @@
         "description": "Este es un framework SASS completamente customizado personalmente, cuyas caracteristicas estan reflejadas en esta pagina plantilla.",
         "preview": "img/cuatro-project.png",
         "link": "https://github.com/AlvaroZ-F/Cuatro",
-        "prod-link": "https://alvaroz-f.github.io/Cuatro/"
+        "prodlink": "https://alvaroz-f.github.io/Cuatro/"
       },
       {
         "id": "3",
@@ -291,7 +291,7 @@
         "description": "Este es un buscador de peliculas usando una API de una base de datos de peliculas, mostrando los resultados de cualquier busqueda realizada mediante peticiones ajax.",
         "preview": "img/movie-finder.png",
         "link": "https://github.com/AlvaroZ-F/JQMovie-Finder-2020",
-        "prod-link": "https://alvaroz-f.github.io/JQMovie-Finder-2020/"
+        "prodlink": "https://alvaroz-f.github.io/JQMovie-Finder-2020/"
       }
     ]
   }
